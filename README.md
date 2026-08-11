@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rakshitha! 👋
 
-<!--
-**rakshitha-selvaraj/rakshitha-selvaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science student passionate about
+programming, problem solving and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I code in :
+<br /> [python](https://www.pinterest.com/pin/python-logo--189784571791302601/) [C++] (https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png)
+### 🧩 Coding
+
+- 🟢 LeetCode
+- 🟠 HackerRank
+
+### 📫 Connect with me
+
+- GitHub
+- LinkedIn
