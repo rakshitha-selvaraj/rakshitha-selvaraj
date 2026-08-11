@@ -13,7 +13,7 @@ programming, problem solving and building projects.
 ---
 ### 🧩 Coding
 <br /> <img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9N94k3mJhu-7T6ZVegcrOF9VNMAYfVh-WGodGFmBBww&s=10"> 
-<img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUj25LytJXaSulo4ZjwHB1KciatSKT0pfmlotwekqAVw&s=10">
+<img height="50" width="50" src="https://play-lh.googleusercontent.com/Soy7W8L4cfKwvuej_2Czpz43RmSbFO9DziymluM_5EGncwclSbQngxg5Zt_hL3brJxdm0DTqA9OpZ2c-MM_wfQ">
 
 ---
 ### 📫 Connect with me
