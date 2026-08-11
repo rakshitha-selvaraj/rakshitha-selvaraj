@@ -12,8 +12,8 @@ programming, problem solving and building projects.
 
 ---
 ### 🧩 Coding
-<br /> [Leetcode](<img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9N94k3mJhu-7T6ZVegcrOF9VNMAYfVh-WGodGFmBBww&s=10"> )
-[Hackerrank](<img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUj25LytJXaSulo4ZjwHB1KciatSKT0pfmlotwekqAVw&s=10">)
+<br /> <img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9N94k3mJhu-7T6ZVegcrOF9VNMAYfVh-WGodGFmBBww&s=10"> 
+<img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUj25LytJXaSulo4ZjwHB1KciatSKT0pfmlotwekqAVw&s=10">
 
 ---
 ### 📫 Connect with me
