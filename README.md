@@ -17,7 +17,7 @@ programming, problem solving and building projects.
 - 🟠 HackerRank
 ---
 ### 📫 Connect with me
-[<img height="50" width="50" src="https://www.terluinwebdesign.nl/en/services/online-marketing/linkedin-campaigns/">](https://www.linkedin.com/in/rakshitha-s-a54141263?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[<img height="50" width="100" src="https://www.terluinwebdesign.nl/en/wp-content/uploads/2024/07/online-marketing-linkedin-campaigns-1_1.png">](https://www.linkedin.com/in/rakshitha-s-a54141263?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 ### 📈 Leetcode Stats
