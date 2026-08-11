@@ -21,7 +21,7 @@ programming, problem solving and building projects.
 
 ---
 ### 📈 Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/rakshitha83?theme=forest&font=Marcellus&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rakshitha83?theme=forest&font=Iceberg)
 
 ### 📊 Github Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakshitha-selvaraj&bg_color=03203c&color=5da3fa&line=5da3fa&point=2827cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
