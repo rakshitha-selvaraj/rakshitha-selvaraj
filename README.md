@@ -13,8 +13,8 @@ programming, problem solving and building projects.
 ---
 ### 🧩 Coding
 
-- 🟢 LeetCode
-- 🟠 HackerRank
+🟢 LeetCode
+🟠 HackerRank
 ---
 ### 📫 Connect with me
 [<img height="50" width="70" src="https://www.terluinwebdesign.nl/en/wp-content/uploads/2024/07/online-marketing-linkedin-campaigns-1_1.png">](https://www.linkedin.com/in/rakshitha-s-a54141263?utm_source=share_via&utm_content=profile&utm_medium=member_android)
