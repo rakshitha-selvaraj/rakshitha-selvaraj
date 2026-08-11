@@ -20,9 +20,9 @@ programming, problem solving and building projects.
 [<img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRITsKS0PEMC132U7VtPeIHoyBqwqPMItGHEm7ZvOCg&s=10">](https://www.linkedin.com/in/rakshitha-s-a54141263?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
-### 📈 Stats
-- Leetcode
+### 📈 Leetcode Stats
  <br /> ![LeetCode Stats](https://leetcard.jacoblin.cool/rakshitha83?theme=forest&font=Marcellus&ext=contest)
-- Github
+
+### 📊 Github Stats
  <br /> [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakshitha-selvaraj&bg_color=03203c&color=5da3fa&line=5da3fa&point=2827cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
