@@ -16,4 +16,4 @@ programming, problem solving and building projects.
 - 🟠 HackerRank
 
 ### 📫 Connect with me
-<br />[<img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRITsKS0PEMC132U7VtPeIHoyBqwqPMItGHEm7ZvOCg&s=10">](https://www.linkedin.com/in/rakshitha-s-a54141263?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[<img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRITsKS0PEMC132U7VtPeIHoyBqwqPMItGHEm7ZvOCg&s=10">](https://www.linkedin.com/in/rakshitha-s-a54141263?utm_source=share_via&utm_content=profile&utm_medium=member_android)
